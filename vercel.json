@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "has": [{ "type": "host", "value": "alinemaciel.com.br" }], "destination": "/aline" },
+    { "source": "/", "has": [{ "type": "host", "value": "www.alinemaciel.com.br" }], "destination": "/aline" }
+  ]
+}
